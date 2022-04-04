@@ -13,4 +13,3 @@ int main()
     printf("the factorial of %d is %d\n",end,fact);
     return 0;
 }
-// this sis a newmekdewfncscniov
